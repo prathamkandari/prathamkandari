@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=prathamkandari&theme=cobalt&show_icons=true&count_private=true&size=small" width=350px>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamkandari&theme=cobalt" width=350px>
 </div>
+<hr size="2">
 <img src="https://activity-graph.herokuapp.com/graph?username=prathamkandari&theme=redical">
 
 
