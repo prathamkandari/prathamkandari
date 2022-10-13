@@ -1,11 +1,11 @@
 ### Hi there, my name is Pratham Kandari.👋
 I am currently pursuing my Second year Bachelor of Technology in Computer Science and Engineering from the University of Petroleum and Energy Studies.
 <div align="center">
+I am currently pursuing BTech in Computer Science and Engineering in Cloud Computing in Virtualization and Technology <br> The University of Petroleum and Energy Studies. 
 I'm a DevOps Enthusiast, a sophomore at University of Petroleum and Energy Studies <br> Currenly pursuing BTech(H) CSE in DevOps.
 </div>
 <!--
 **prathamkandari/prathamkandari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
