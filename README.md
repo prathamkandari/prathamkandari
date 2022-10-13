@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 <img src="https://activity-graph.herokuapp.com/graph?username=prathamkandari&theme=redical">
 
 ### [My LinkedIn: 💬](https://www.linkedin.com/in/pratham-kandari-a02ab3235/) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=pratham.pratham)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=prathamkandari.prathamkandari)
