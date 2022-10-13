@@ -1,4 +1,5 @@
 ### Hi there, my name is Pratham Kandari.👋
+<hr size="6">
 <div align="center">
 I am currently pursuing BTech CSE in Cloud Computing in Virtualization and Technology <br> The University of Petroleum and Energy Studies. 
 </div>
