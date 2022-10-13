@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 ## 📈Stats
 ![GITHub Stats](https://github-readme-stats.vercel.app/api?username=prathamkandari&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamkandari&theme=cobalt" width=350px>
 <img src="https://activity-graph.herokuapp.com/graph?username=prathamkandari&theme=redical">
+
 
 ### [My LinkedIn: 💬](https://www.linkedin.com/in/pratham-kandari-a02ab3235/) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=prathamkandari.prathamkandari)
