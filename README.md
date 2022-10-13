@@ -3,7 +3,9 @@ I am currently pursuing my Second year Bachelor of Technology in Computer Scienc
 
 <!--
 **prathamkandari/prathamkandari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<div align="center">
+I'm a DevOps Enthusiast, a sophomore at University of Petroleum and Energy Studies <br> Currenly pursuing BTech(H) CSE in DevOps.
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
