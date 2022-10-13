@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 
 
 ## 📈Stats
-![GITHub Stats](https://github-readme-stats.vercel.app/api?username=prathamkandari&theme=radical)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=prathamkandari&theme=cobalt&show_icons=true&count_private=true&size=small" width=350px>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamkandari&theme=cobalt" width=350px>
+</div>
 <img src="https://activity-graph.herokuapp.com/graph?username=prathamkandari&theme=redical">
 
 
