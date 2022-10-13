@@ -1,6 +1,6 @@
 ### Hi there, my name is Pratham Kandari.👋
 <div align="center">
-I am currently pursuing BTech in Computer Science and Engineering in Cloud Computing in Virtualization and Technology <br> The University of Petroleum and Energy Studies. 
+I am currently pursuing BTech CSE in Cloud Computing in Virtualization and Technology <br> The University of Petroleum and Energy Studies. 
 </div>
 <!--
 **prathamkandari/prathamkandari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
