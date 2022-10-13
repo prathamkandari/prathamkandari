@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📈Stats
 ![GITHub Stats](https://github-readme-stats.vercel.app/api?username=prathamkandari&theme=radical)
 <img src="https://activity-graph.herokuapp.com/graph?username=prathamkandari&theme=redical">
-## 📈Stats
+
