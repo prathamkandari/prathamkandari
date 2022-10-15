@@ -6,6 +6,7 @@
 I am a 2nd year student Currently pursuing BTech CSE in Cloud Computing in Virtualization and Technology <br> The University of Petroleum and Energy Studies. 
 </h2>
 <hr size="2">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamkandari&label=Profile%20views&color=0e75b6&style=flat" alt="ayroid" /> </p>
 
 
 <!--
@@ -37,6 +38,7 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/prathamrushil" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayroid" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  </p>
 
-### [My LinkedIn: 💬](https://www.linkedin.com/in/pratham-kandari-a02ab3235/) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=prathamkandari.prathamkandari)
+
