@@ -1,4 +1,6 @@
-## <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Pratham!</h1>
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://Ayroid.io)
+
+## <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" alt="👋" width="40" height="45">, I'm Pratham!</h1>
 
 <h2 align="center">
 I am a 2nd year student Currently pursuing BTech CSE in Cloud Computing in Virtualization and Technology <br> The University of Petroleum and Energy Studies. 
@@ -28,6 +30,13 @@ Here are some ideas to get you started:
 </div>
 <hr size="2">
 <img src="https://activity-graph.herokuapp.com/graph?username=prathamkandari&theme=redical">
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/pratham-kandari-a02ab3235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush singh kushwah" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ayushsk0000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushsk0000" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ayroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayroid" height="30" width="40" /></a>
+</p>
 
 
 ### [My LinkedIn: 💬](https://www.linkedin.com/in/pratham-kandari-a02ab3235/) 
