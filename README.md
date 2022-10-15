@@ -1,8 +1,8 @@
-## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Pratham!
+## <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Pratham!</h1>
 
-<div align="center">
-I am currently pursuing BTech CSE in Cloud Computing in Virtualization and Technology <br> The University of Petroleum and Energy Studies. 
-</div>
+<h2 align="center">
+I am a 2nd year student Currently pursuing BTech CSE in Cloud Computing in Virtualization and Technology <br> The University of Petroleum and Energy Studies. 
+</h2>
 <hr size="2">
 
 
