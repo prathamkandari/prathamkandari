@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pratham-kandari-a02ab3235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush singh kushwah" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayushsk0000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushsk0000" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ayroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayroid" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pratham-kandari-a02ab3235/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush singh kushwah" height="30" width="40" /></a>
+
+<a href="https://www.hackerrank.com/prathamrushil" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayroid" height="30" width="40" /></a>
 </p>
 
 
