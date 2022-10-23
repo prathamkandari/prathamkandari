@@ -7,7 +7,7 @@ I am a 2nd year student Currently pursuing BTech CSE in Cloud Computing in Virtu
 </h2>
 <hr size="2">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamkandari&label=Profile%20views&color=0e75b6&style=flat" alt="ayroid" /> </p>
-<h1 align="left">My Badges:</h1>
+<h1 align="left">My Badges(HacktoberFest):</h1>
 
 [![@pratham__kandari03's Holopin board](https://holopin.me/pratham__kandari03)](https://holopin.io/@pratham__kandari03)
 
