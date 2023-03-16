@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" style="max-width:100%; margin-left: 3px; margin-right: 3px;" width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px; margin-right: 3px">
-<img src="https://algol.dev/wp-content/uploads/2020/10/logo-eclipse.png" alt="Eclipse" height="40" style="vertical-align:top; margin-left: 3px; margin-right: 3px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" height="40" style="vertical-align:top; margin-left: 5px; margin-right: 5px;">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" width="40" style="vertical-align:top; margin:4px; margin-right: 3px">
+<img src="https://algol.dev/wp-content/uploads/2020/10/logo-eclipse.png" alt="Eclipse" height="40" width="40" style="vertical-align:top; margin-left: 3px; margin-right: 3px; background-color: black;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" height="40" width="40" style="vertical-align:top; margin-left: 5px; margin-right: 5px;">
 
   </p>
 
