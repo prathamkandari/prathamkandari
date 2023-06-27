@@ -3,7 +3,7 @@
 ## <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" alt="👋" width="40" height="45">, I'm Pratham!</h1>
 
 <h2 align="center">
-I am a 2nd year student Currently pursuing BTech CSE in Cloud Computing in Virtualization and Technology <br> The University of Petroleum and Energy Studies. 
+I am a 3rd year student Currently pursuing BTech CSE in Cloud Computing in Virtualization and Technology <br> The University of Petroleum and Energy Studies. 
 </h2>
 <hr size="2">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamkandari&label=Profile%20views&color=0e75b6&style=flat" alt="ayroid" /> </p>
@@ -11,7 +11,7 @@ I am a 2nd year student Currently pursuing BTech CSE in Cloud Computing in Virtu
 
 [![@pratham__kandari03's Holopin board](https://holopin.me/pratham__kandari03)](https://holopin.io/@pratham__kandari03)
 
-
+<!--
 **prathamkandari/prathamkandari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: 
 
