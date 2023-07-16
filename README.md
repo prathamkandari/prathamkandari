@@ -3,16 +3,19 @@
 ## <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" alt="👋" width="40" height="45">, I'm Pratham!</h1>
 
 <h2 align="center">
-I am a 3rd-year student Currently pursuing BTech CSE in Cloud Computing in Virtualization and Technology <br> The University of Petroleum and Energy Studies. 
+I am a 3rd-year student, currently pursuing BTech CSE in Cloud Computing in Virtualization and Technology <br> at The University of Petroleum and Energy Studies. 
 </h2>
 <hr size="2">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamkandari&label=Profile%20views&color=0e75b6&style=flat" alt="ayroid" /> </p>
 <h1 align="left">My Badges(HacktoberFest):</h1>
 
 [![@pratham__kandari03's Holopin board](https://holopin.me/pratham__kandari03)](https://holopin.io/@pratham__kandari03)
-# 📊 GitHub Stats:
+<h3 align="left"> 📊 GitHub Stats:</h3>
+<div width=30>
+
 ![](https://github-readme-stats.vercel.app/api?username=prathamkandari&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prathamkandari&theme=tokyonight&hide_border=false)<br/>
+</div>
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamkandari&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
 <hr size="2">
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=prathamkandari&theme=redical">-->
@@ -33,10 +36,10 @@ I am a 3rd-year student Currently pursuing BTech CSE in Cloud Computing in Virtu
 </p>
 
 <!--               -->
-# 💻 Tech Stack:
+<h3 align="left">💻 Tech Stack:</h3>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
+<h3 align="left">🏆 GitHub Trophies:</h3>
 
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prathamkandari&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-[![](https://visitcount.itsvg.in/api?id=prathamkandari&icon=0&color=1)](https://visitcount.itsvg.in)
