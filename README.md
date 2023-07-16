@@ -12,7 +12,7 @@ I am a 3rd-year student, currently pursuing BTech CSE in Cloud Computing in Virt
 [![@pratham__kandari03's Holopin board](https://holopin.me/pratham__kandari03)](https://holopin.io/@pratham__kandari03)
 <h3 align="left"> 📊 GitHub Stats:</h3>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prathamkandari&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="400"/>&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamkandari&theme=tokyonight&hide_border=false" width="415"/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=prathamkandari&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="400"/>&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamkandari&theme=tokyonight&hide_border=false" width="438"/><br/>
 </div>
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamkandari&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
 <hr size="2">
