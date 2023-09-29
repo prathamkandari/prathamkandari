@@ -3,7 +3,7 @@
 ## <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" alt="👋" width="40" height="45">, I'm Pratham!</h1>
 
 <h2 align="center">
-I am a 3rd-year student, currently pursuing BTech CSE in Cloud Computing in Virtualization and Technology <br> from the University of Petroleum and Energy Studies. 
+I am a 3rd-year student, currently pursuing BTech CSE in Cloud Computing in Virtualization and Technology <br> from The University of Petroleum and Energy Studies. 
 </h2>
 <hr size="2">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamkandari&label=Profile%20views&color=0e75b6&style=flat" alt="ayroid" /> </p>
