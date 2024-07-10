@@ -23,6 +23,7 @@ I am a Final year student, currently pursuing BTech CSE in Cloud Computing in Vi
 <a href="mailto:prathamrushil2003@gmail.com" target="_blank"> <img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="pratham kandari" height="30" width="50" /></a>
 <a href="https://www.linkedin.com/in/pratham-kandari-a02ab3235/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham kandari" height="30" width="40" margin-right="2px"/></a>
 <a href="https://www.hackerrank.com/prathamrushil" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayroid" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/prathamkandari123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/prathamkandari123/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/pratham__kandari03/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratham kandari" height="30" width="40" /></a>
 </p>
 
